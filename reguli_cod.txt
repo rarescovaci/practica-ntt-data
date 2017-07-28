@@ -6,6 +6,8 @@ folosind macrouri (ex: #define HALL_SENSOR_PIN 2)
 - pentru lizibilitatea codului, inainte si dupa sfarsitul corpului unei 
 functii se va lasa cate o linie libera; se va folosi tasta TAB pentru
 alinierea codului dupa deschiderea unei acolade.
+- comentarii: inainte de fiecare functie si la instructiunile unde
+se considera necesar
 	Exemplu:
 [...]
 
