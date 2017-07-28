@@ -1,0 +1,20 @@
+Reguli cod:
+- variabilele vor avea nume care sugereaza scopul sau utilizarea lor
+- fara numere magice: constantele (ex: numarul unui pin) se vor declara
+folosind macrouri (ex: #define HALL_SENSOR_PIN 2)
+- se va scrie maxim o intructiune pe o linie de cod
+- pentru lizibilitatea codului, inainte si dupa sfarsitul corpului unei 
+functii se va lasa cate o linie libera; se va folosi tasta TAB pentru
+alinierea codului dupa deschiderea unei acolade.
+	Exemplu:
+[...]
+
+void main(){
+	[...]
+}
+
+void interrupt(){
+	[...]
+}
+
+[...]
